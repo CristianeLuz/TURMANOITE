@@ -4,8 +4,11 @@ body{
 h1{
 text-align:center
 }
-p{
+p {
     "text-align:center;
+}
+#missao{
+    font-size20px
 }
     em stron{
     color:#FF0000;
