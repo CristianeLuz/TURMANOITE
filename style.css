@@ -1,6 +1,38 @@
 body{
+    background-color: #83bf34;
 }
-#banner{
+ header, footer{
+    background-color: rgb(242, 90,138);
+ }
+ 
+main {
+
+	background-color: #acf497;
+}
+h1  {
+	 text-align: center;
+	 color: #black;
+	
+}
+
+h3 {
+	color:black;
+}
+
+b {
+	color:rgb(242, 90, 138) ;
+	font-size: 20px;
+}
+
+i {
+	color: #32CD32;
+	font-size: 30px;
+
+}
+
+
+#banner
+{
     width:100%;
 }
 .principal{
